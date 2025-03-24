@@ -12,7 +12,7 @@ QuestChain is a gamified on-chain quest system that allows players to complete t
 1️⃣ Start Your Quest
 Players begin their journey by interacting with the contract, starting from Stage 1.
 You can define your quest with custom tasks for each stage.
-2️⃣ Complete Tasks 
+2️⃣ Complete Tasks  
 Each stage of the quest involves a specific action, such as:
 Stage 1: Send a small amount of tokens.  
 Stage 2: Sign a predefined message to prove your knowledge.
