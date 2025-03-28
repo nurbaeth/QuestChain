@@ -9,7 +9,7 @@ QuestChain is a gamified on-chain quest system that allows players to complete t
 ✅ Customizable – Create new quests, stages, and reward systems. 
 
 📜 How It Works  
-1️⃣ Start Your Quest
+1️⃣ Start Your Quest 
 Players begin their journey by interacting with the contract, starting from Stage 1.
 You can define your quest with custom tasks for each stage.
 2️⃣ Complete Tasks  
