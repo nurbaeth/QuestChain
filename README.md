@@ -6,7 +6,7 @@ QuestChain is a gamified on-chain quest system that allows players to complete t
 ✅ Reward Mechanism – Earn ERC-20 tokens or other assets for completing each stage.
 ✅ Trustless & Transparent – All steps and rewards are handled on-chain.
 ✅ Gamified Experience – A fun way to learn and interact with blockchain technology.
-✅ Customizable – Create new quests, stages, and reward systems. 
+✅ Customizable – Create new quests, stages, and reward systems.  
 
 📜 How It Works  
 1️⃣ Start Your Quest 
