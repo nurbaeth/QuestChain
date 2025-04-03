@@ -15,7 +15,7 @@ You can define your quest with custom tasks for each stage.
 2️⃣ Complete Tasks  
 Each stage of the quest involves a specific action, such as: 
 Stage 1: Send a small amount of tokens.  
-Stage 2: Sign a predefined message to prove your knowledge.
+Stage 2: Sign a predefined message to prove your knowledge. 
 Stage 3: Interact with another contract or perform an action on the blockchain.
 3️⃣ Claim Your Reward
 After completing all stages, players can claim their reward, which could be a predefined amount of tokens, NFTs, or other assets.
